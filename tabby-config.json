@@ -2,7 +2,7 @@
   "format": "tabby-config-package",
   "version": 1,
   "kind": "full",
-  "exportedAt": "2026-10-18T19:29:45.929Z",
+  "exportedAt": "2026-10-18T20:05:02.023Z",
   "tabbyVersion": "1.0.237",
   "modules": {
     "profiles": [
@@ -15,7 +15,7 @@
       },
       {
         "id": "bc-e2e-profile",
-        "name": "BC E2E 819759",
+        "name": "BC E2E 822513",
         "type": "local",
         "options": {},
         "group": "bc-e2e"
@@ -309,7 +309,7 @@
           "#ffffff"
         ]
       },
-      "showRecentProfiles": 819759,
+      "showRecentProfiles": 822513,
       "customColorSchemes": []
     },
     "ssh": {},
