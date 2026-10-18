@@ -2,7 +2,7 @@
   "format": "tabby-config-package",
   "version": 1,
   "kind": "full",
-  "exportedAt": "2026-10-18T20:18:51.113Z",
+  "exportedAt": "2026-10-18T20:20:54.427Z",
   "tabbyVersion": "1.0.237",
   "modules": {
     "profiles": [
